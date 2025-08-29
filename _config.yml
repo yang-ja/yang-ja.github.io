@@ -1,0 +1,33 @@
+title: "양진영 포트폴리오"
+description: "온프레미스·폐쇄망 특화 백엔드 & DevOps 포트폴리오"
+locale: ko_KR
+url: https://yang-ja.github.io
+baseurl: ""
+
+
+theme: minima
+
+
+minima:
+skin: classic
+social_links:
+- { platform: github, user_url: "https://github.com/yang-ja" }
+#- { platform: linkedin, user_url: "https://www.linkedin.com/in/yang-ja" }
+
+
+header_pages:
+- index.md
+
+
+markdown: kramdown
+kramdown:
+input: GFM
+
+
+plugins:
+- jekyll-seo-tag
+
+
+seo:
+type: Person
+name: 양진영
