@@ -39,4 +39,4 @@ Java 17, Spring Boot 3.x, JPA/QueryDSL, Oracle·MSSQL·MariaDB, Rocky Linux 9.x,
 
 ## 연락
 - Email: glhycs20@nate.com
-- GitHub: [github.com/yang-ja](https://github.com/yang-ja)
+- GitHub: [github.com/yang-ja](https://github.com/yang-ja/YangJinYoung)
