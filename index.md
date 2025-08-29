@@ -8,7 +8,7 @@ title: 홈
 온프레미스·폐쇄망 환경 중심 엔터프라이즈 백엔드. 멀티 DB 스키마, 오프라인 패키징, 배포 자동화.
 
 
-![Banner](/assets/banner.svg)
+![Banner]({{ "/assets/banner.svg" | relative_url }})
 
 
 ## 소개
@@ -39,4 +39,4 @@ Java 17, Spring Boot 3.x, JPA/QueryDSL, Oracle·MSSQL·MariaDB, Rocky Linux 9.x,
 
 ## 연락
 - Email: glhycs20@nate.com
-- GitHub: https://github.com/yang-ja
+- GitHub: https://github.com/yang-ja(https://github.com/yang-ja/)
